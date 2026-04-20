@@ -11,17 +11,6 @@ product UI • automation • AI tooling • self-hosted systems
 
 </div>
 
-## Signal map
-
-<div align="center">
-
-### TypeScript · Next.js · Product UI
-#### Automation · Browser Agents · Self-hosted
-##### Raspberry Pi · Docker · AI Workflows · GitHub Projects
-###### Internal Tools · Runbooks · PM-by-PR · Private-by-default
-
-</div>
-
 ## Interesting facts
 
 <div align="center">
@@ -42,14 +31,6 @@ product UI • automation • AI tooling • self-hosted systems
 
 <div align="center">
 <sub>Snapshot includes both private and public repositories.</sub>
-</div>
-
-## Lately
-
-<div align="center">
-
-`wedding-attendance` · `web-caster` · `browser agents` · `automation` · `self-hosted Pi` · `UI polish`
-
 </div>
 
 ## Public slice
