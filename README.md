@@ -6,6 +6,8 @@
 
 product UI • automation • AI tooling • self-hosted systems
 
+<img src="https://komarev.com/ghpvc/?username=philspaces&style=flat-square&color=6b7280" alt="Profile views" />
+
 <img height="158" src="https://github-readme-stats.vercel.app/api?username=philspaces&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
 <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philspaces&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
