@@ -1,61 +1,67 @@
 <div align="center">
 
-# Hi, I'm Phi Long 👋
+# Phi Long 👋
 
-**TypeScript-first builder focused on product UI, automation, AI tooling, and self-hosted systems.**
+### TypeScript-first builder
 
-I like turning rough ideas into software that people can actually use — with clean interfaces, tight feedback loops, and real-world operations in mind.
+product UI • automation • AI tooling • self-hosted systems
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
-</p>
+<img height="158" src="https://github-readme-stats.vercel.app/api?username=philspaces&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philspaces&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
 </div>
 
-## What my GitHub usually looks like
+## Signal map
 
-- **TypeScript-heavy** work across React, Next.js, Node.js, and tooling
-- **Private-by-default** product work, with public repos used for experiments, utilities, and templates
-- A mix of **frontend polish**, **automation**, **AI/browser agents**, and **self-hosted infrastructure**
-- GitHub used as both a **codebase** and a **project-management surface**: issues, branches, PRs, validation, then merge
+<div align="center">
 
-## How I like to build
+### TypeScript · Next.js · Product UI
+#### Automation · Browser Agents · Self-hosted
+##### Raspberry Pi · Docker · AI Workflows · GitHub Projects
+###### Internal Tools · Runbooks · PM-by-PR · Private-by-default
 
-- ship useful things, not just demos
-- keep UI clear and intentional
-- iterate in small, verifiable steps
-- prefer working software and solid runbooks over vague vision
-- leave the repo cleaner than I found it
+</div>
 
-## Selected public work
+## Interesting facts
 
-- [`my-browser-agent`](https://github.com/philspaces/my-browser-agent) — browser automation experiments with natural-language task execution
-- [`vite-component-library-template`](https://github.com/philspaces/vite-component-library-template) — Vite + Tailwind + Storybook starter for reusable UI work
-- [`image-optimization`](https://github.com/philspaces/image-optimization) — GitHub Action for image optimization workflows
-- [`portfolio`](https://github.com/philspaces/portfolio) — an older slice of my frontend work
+<div align="center">
+
+<img src="https://img.shields.io/badge/repos-53-111111?style=for-the-badge" alt="53 repos" />
+<img src="https://img.shields.io/badge/private-23-374151?style=for-the-badge" alt="23 private repos" />
+<img src="https://img.shields.io/badge/public-30-6B7280?style=for-the-badge" alt="30 public repos" />
+
+<img src="https://img.shields.io/badge/typescript_repos-19-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="19 TypeScript repos" />
+<img src="https://img.shields.io/badge/contributions-2903-0f766e?style=for-the-badge" alt="2903 contributions" />
+<img src="https://img.shields.io/badge/commits-2291-1f6feb?style=for-the-badge" alt="2291 commits" />
+
+<img src="https://img.shields.io/badge/pull_requests-516-8250df?style=for-the-badge" alt="516 pull requests" />
+<img src="https://img.shields.io/badge/reviews-68-15803d?style=for-the-badge" alt="68 reviews" />
+<img src="https://img.shields.io/badge/issues-15-b45309?style=for-the-badge" alt="15 issues" />
+
+</div>
+
+<div align="center">
+<sub>Snapshot includes both private and public repositories.</sub>
+</div>
 
 ## Lately
 
-Recently, most of my active work has been around:
+<div align="center">
 
-- product-focused web apps
-- internal tools and automation
-- AI-assisted workflows and browser agents
-- self-hosted systems running on small hardware
+`wedding-attendance` · `web-caster` · `browser agents` · `automation` · `self-hosted Pi` · `UI polish`
 
-A lot of that work lives in private repositories, so this profile is the public slice.
+</div>
 
-## GitHub at a glance
-
-> The graph only shows the public side of my work.
+## Public slice
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=philspaces&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philspaces&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <a href="https://github.com/philspaces/my-browser-agent">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=philspaces&repo=my-browser-agent&hide_border=true&theme=transparent" alt="my-browser-agent" />
+  </a>
+  <a href="https://github.com/philspaces/vite-component-library-template">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=philspaces&repo=vite-component-library-template&hide_border=true&theme=transparent" alt="vite-component-library-template" />
+  </a>
+  <a href="https://github.com/philspaces/image-optimization">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=philspaces&repo=image-optimization&hide_border=true&theme=transparent" alt="image-optimization" />
+  </a>
 </div>
