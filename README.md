@@ -2,9 +2,7 @@
 
 # Phi Long 👋
 
-### TypeScript-first builder
-
-product UI • automation • AI tooling • self-hosted systems
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1400&color=111111&center=true&vCenter=true&width=760&lines=TypeScript-first+builder;Product+UI+%E2%80%A2+Automation+%E2%80%A2+AI+tooling;Self-hosted+systems+%E2%80%A2+Browser+agents" alt="Typing intro" />
 
 <img src="https://komarev.com/ghpvc/?username=philspaces&style=flat-square&color=6b7280" alt="Profile views" />
 
