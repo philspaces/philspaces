@@ -2,7 +2,17 @@
 
 # Phi Long 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1400&color=111111&center=true&vCenter=true&width=760&lines=Product-driven+builder;Product+UI+%E2%80%A2+Automation+%E2%80%A2+AI+tooling;Self-hosted+systems+%E2%80%A2+Browser+agents" alt="Typing intro" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1400&color=F3F4F6&center=true&vCenter=true&width=760&cursorColor=F3F4F6&lines=Product-driven+builder;Product+UI+%E2%80%A2+Automation+%E2%80%A2+AI+tooling;Self-hosted+systems+%E2%80%A2+Browser+agents"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1400&color=111111&center=true&vCenter=true&width=760&cursorColor=111111&lines=Product-driven+builder;Product+UI+%E2%80%A2+Automation+%E2%80%A2+AI+tooling;Self-hosted+systems+%E2%80%A2+Browser+agents"
+  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1400&color=111111&center=true&vCenter=true&width=760&cursorColor=111111&lines=Product-driven+builder;Product+UI+%E2%80%A2+Automation+%E2%80%A2+AI+tooling;Self-hosted+systems+%E2%80%A2+Browser+agents" alt="Typing intro" />
+</picture>
 
 <img src="https://komarev.com/ghpvc/?username=philspaces&style=flat-square&color=6b7280" alt="Profile views" />
 
